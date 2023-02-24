@@ -1,0 +1,5 @@
+E2O: WGS84 -> EGM2008 (Mean tide)
+O2L: EGM2008 (Mean tide) -> Level datum
+E2L: WGS84  -> Level datum
+
+Contact: Xiang Shen, shen@apm.ac.cn
